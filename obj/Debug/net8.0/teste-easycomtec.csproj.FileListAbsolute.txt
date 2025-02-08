@@ -1,0 +1,14 @@
+/home/lauro/Documentos/GitHub/teste-easycomtec/bin/Debug/net8.0/teste-easycomtec
+/home/lauro/Documentos/GitHub/teste-easycomtec/bin/Debug/net8.0/teste-easycomtec.deps.json
+/home/lauro/Documentos/GitHub/teste-easycomtec/bin/Debug/net8.0/teste-easycomtec.runtimeconfig.json
+/home/lauro/Documentos/GitHub/teste-easycomtec/bin/Debug/net8.0/teste-easycomtec.dll
+/home/lauro/Documentos/GitHub/teste-easycomtec/bin/Debug/net8.0/teste-easycomtec.pdb
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.GeneratedMSBuildEditorConfig.editorconfig
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.AssemblyInfoInputs.cache
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.AssemblyInfo.cs
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.csproj.CoreCompileInputs.cache
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.dll
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/refint/teste-easycomtec.dll
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.pdb
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/teste-easycomtec.genruntimeconfig.cache
+/home/lauro/Documentos/GitHub/teste-easycomtec/obj/Debug/net8.0/ref/teste-easycomtec.dll
